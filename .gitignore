@@ -41,3 +41,12 @@ yarn-error.log*
 next-env.d.ts
 
 /src/generated/prisma
+
+# Mengabaikan folder agen dan AI
+.agents/
+.claude/
+.windsurf/
+
+# Mengabaikan file Prisma (sesuaikan jika ada folder prisma yang ingin diabaikan)
+prisma/
+.env
