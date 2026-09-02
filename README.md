@@ -1,5 +1,39 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# 🚀 Next.js & Prisma Project
 
+A modern, fast, and responsive full-stack web application built using **Next.js**, **Prisma ORM**, and **Tailwind CSS**.
+
+---
+
+## ✨ Features
+
+- ⚡ **Next.js App Router** for optimized routing and Server-Side Rendering (SSR).
+- 🗄️ **Prisma ORM** for seamless database management and type-safe queries.
+- 🎨 **Tailwind CSS** for clean, modern, and utility-first styling.
+- 📱 **Fully Responsive** design tailored for all screen sizes.
+
+---
+
+## 🛠️ Tech Stack
+
+- **Framework:** Next.js
+- **Database ORM:** Prisma
+- **Styling:** Tailwind CSS, PostCSS
+- **Language:** JavaScript / TypeScript
+
+---
+
+## 🚀 Getting Started
+
+### Prerequisites
+
+Make sure you have Node.js and your database (e.g., PostgreSQL or MySQL) installed on your machine.
+
+### Installation
+
+1. **Clone the repository:**
+   ```bash
+   git clone [https://github.com/HilmannArna04/](https://github.com/HilmannArna04/)<repository-name>.git
+   cd <repository-name>
 ## Getting Started
 
 First, run the development server:
