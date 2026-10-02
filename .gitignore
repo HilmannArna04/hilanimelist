@@ -50,3 +50,4 @@ next-env.d.ts
 # Mengabaikan file Prisma (sesuaikan jika ada folder prisma yang ingin diabaikan)
 prisma/
 .env
+/src/generated/prisma
